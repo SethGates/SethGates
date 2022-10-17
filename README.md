@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SethGates
-- 👀 I’m interested in Cloud Engineering, and the ever growing world of Cloud Technology! From advancements and reach to millions to security down to the individual, id love to know it all!
-- 🌱 I’m currently learning Linux, SQL, C, Java and Python through Cloud Application Development!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
+Hi! Im Seth. I aspire to become a full stack developer and make changes that will effect millions for the better.
 
-<!---
-SethGates/SethGates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am transitioning from Active Duty Service in the U.S. Army, and am using every resource I can to be successful.
+
+I love to learn, and believe in the "Forever a student" mindset, regardless of how good I am at something.
