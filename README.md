@@ -1,4 +1,4 @@
-Hi! Im Seth. I aspire to become a full stack developer and make changes that will effect millions for the better.
+Hi! Im Seth. I'm a Software Engineer looking to learn as much as possible.
 
 I am transitioning from Active Duty Service in the U.S. Army, and am using every resource I can to be successful.
 
